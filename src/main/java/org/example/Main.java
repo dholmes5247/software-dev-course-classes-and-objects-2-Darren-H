@@ -19,6 +19,7 @@ public class Main {
         System.out.println("4. Exit");
         System.out.print("Enter an option: ");
 
+
         String option = scanner.nextLine();
 
         if (option.equals("1")) {
